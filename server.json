@@ -1,0 +1,66 @@
+{
+    "stock": [
+        {
+            "id": 1,
+            "amount": 3
+        },
+        {
+            "id": 2,
+            "amount": 5
+        },
+        {
+            "id": 3,
+            "amount": 2
+        },
+        {
+            "id": 4,
+            "amount": 1
+        },
+        {
+            "id": 5,
+            "amount": 5
+        },
+        {
+            "id": 6,
+            "amount": 10
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "title": "Chuteira Futsal Nike Beco 2 Futsal - Preto e Branco",
+            "price": 99.99,
+            "image": "https://static.netshoes.com.br/produtos/chuteira-futsal-nike-beco-2-futsal/26/004-5830-026/004-5830-026_detalhe1.jpg?ims=326x"
+        },
+        {
+            "id": 2,
+            "title": "Tênis Nike Air Max Oketo Masculino - Preto e Branco",
+            "price": 199.99,
+            "image": "https://static.netshoes.com.br/produtos/tenis-nike-air-max-oketo-masculino/26/HZM-0636-026/HZM-0636-026_detalhe2.jpg?ims=326x"
+        },
+        {
+            "id": 3,
+            "title": "Tênis Nike Revolution 5 Masculino - Marinho e Branco",
+            "price": 279.99,
+            "image": "https://static.netshoes.com.br/produtos/tenis-nike-revolution-5-masculino/36/HZM-1731-036/HZM-1731-036_detalhe2.jpg?ims=326x"
+        },
+        {
+            "id": 5,
+            "title": "Sapatênis Walkabout WKT Masculino - Marrom",
+            "price": 99.99,
+            "image": "https://static.netshoes.com.br/produtos/sapatenis-walkabout-wkt-masculino/38/H25-1070-138/H25-1070-138_detalhe1.jpg?resize=280:280"
+        },
+        {
+            "id": 6,
+            "title": "Tênis Mizuno Wave Creation 20 Masculino - Azul e Prata",
+            "price": 699.99,
+            "image": "https://static.netshoes.com.br/produtos/tenis-mizuno-wave-creation-20-masculino/86/D16-2952-086/D16-2952-086_detalhe1.jpg?ims=326x"
+        },
+        {
+            "id": 4,
+            "title": "Sapatenis Couro Florense Confortável Masculino - Azul",
+            "price": 89.9,
+            "image": "https://static.netshoes.com.br/produtos/sapatenis-couro-florense-confortavel-masculino/08/FAF-0010-008/FAF-0010-008_detalhe2.jpg?ims=326x"
+        }
+    ]
+}
